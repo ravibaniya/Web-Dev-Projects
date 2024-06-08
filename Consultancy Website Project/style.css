@@ -1,0 +1,96 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #044ff1;
+    color: #fff;
+    padding: 20px 0;
+}
+header h1{
+    margin: 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+}
+nav ul li a{
+    color: #fff;
+    margin-right: 90px;
+    text-decoration: none;
+}
+nav ul li span{
+    padding-left: 800px;
+    
+}
+
+.banner {
+    background-color: #f2f2f2;
+    padding: 50px 0;
+}
+
+.banner h2 {
+    margin-top: 0;
+}
+
+.ebutton {
+    display: inline-block;
+    background-color: #e6500b;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.ebutton:hover {
+    background-color: #555;
+}
+.services {
+    padding: 50px 0;
+}
+
+.service{
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.service h3 {
+    margin-top: 0;
+}
+
+.learn-more {
+    display: inline-block;
+    background-color: #e6500b;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.learn-more:hover {
+    background-color: #555;
+}
+
+.about-us {
+    background-color: #ccc;
+    padding: 50px 0;
+}
+footer {
+    background-color: #044ff1;;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
